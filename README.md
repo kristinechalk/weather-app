@@ -1,6 +1,6 @@
 ### Weather App
 
-- Version that uses vanilla JavaScript
+- Version that uses JavaScript
 
 - Integrates with Yahoo Weather API
 
